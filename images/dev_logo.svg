@@ -1,0 +1,15 @@
+<svg viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background circle -->
+  <circle cx="100" cy="100" r="90" fill="#312e81" stroke="#4338ca" stroke-width="2"/>
+  
+  <!-- Code brackets -->
+  <path d="M60 70 L40 100 L60 130" stroke="#a78bfa" stroke-width="4" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M140 70 L160 100 L140 130" stroke="#a78bfa" stroke-width="4" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+  
+  <!-- Center element - could be initials or symbol -->
+  <circle cx="100" cy="100" r="12" fill="#c4b5fd"/>
+  
+  <!-- Optional: Add some geometric elements for tech feel -->
+  <rect x="85" y="85" width="30" height="2" fill="#7c3aed" opacity="0.6"/>
+  <rect x="85" y="113" width="30" height="2" fill="#7c3aed" opacity="0.6"/>
+</svg>
